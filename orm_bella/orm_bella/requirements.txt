@@ -1,0 +1,15 @@
+click == 8.0.1 #
+Flask == 1.1.2 #
+Flask-SQLAlchemy == 2.5.1#
+greenlet == 1.1.0 #
+itsdangerous == 2.0.1 #
+Jinja2 == 3.0.1 #
+MarkupSafe ==2.0.1 #
+SQLAlchemy>=1.4.15,<3.0 #
+Werkzeug == 2.0.1 #
+Flask-Migrate == 4.0.7
+FLask-MYSQLdb == 2.0.0#
+marshmallow == 3.23.0#
+marshmallow-sqlalchemy ==1.1.0#
+mysql == 0.0.3
+PyMySQL==1.1.1
